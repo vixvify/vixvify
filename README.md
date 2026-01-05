@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, my name is Asnawee.<br>I’m currently learning Golang 
+👋 Hi, my name is Asnawee.
 
 
 ## 🌐 Socials:
