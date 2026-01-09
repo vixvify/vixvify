@@ -1,8 +1,9 @@
 # 💫 About Me:
 👋 Hi, my name is Asnawee.
 
-🎓 **Education**  
-Applied Computer Science student at King Mongkut’s University of Technology Thonburi
+🎓 Applied Computer Science student at King Mongkut’s University of Technology Thonburi.
+
+💻 UX/UI & Full-Stack Developer.
 
 🌐 **Socials**
 <p align="left">
