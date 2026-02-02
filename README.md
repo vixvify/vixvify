@@ -20,4 +20,4 @@
 </p>
 
 # 💻 My Skills:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,react,nextjs,nestjs,nodejs,express,prisma,postgresql,docker,figma,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,react,nextjs,nestjs,golang,nodejs,express,prisma,postgresql,docker,figma)](https://skillicons.dev)
